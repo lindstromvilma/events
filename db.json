@@ -1,0 +1,64 @@
+{
+  "events": [
+    {
+      "id": 123,
+      "category": "animal welfare",
+      "title": "Cat Adoption Day",
+      "description": "Find your new feline friend at this event.",
+      "location": "Meow Town",
+      "date": "January 28, 2022",
+      "time": "12:00",
+      "organizer": "Kat Laydee"
+    },
+    {
+      "id": 456,
+      "category": "food",
+      "title": "Community Gardening",
+      "description": "Join us as we tend to the community edible plants.",
+      "location": "Flora City",
+      "date": "March 14, 2022",
+      "time": "10:00",
+      "organizer": "Fern Pollin"
+    },
+    {
+      "id": 419,
+      "category": "sustainability",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "organizer": "Carey Wales"
+    },
+    {
+      "id": 469,
+      "category": "entertainment",
+      "title": "Horror Festival",
+      "description": "There will be wild horror attractions, nightmarish characters roaming the amusement park, creepy performers and awfully good sweet and salty treats.",
+      "location": "Amusement park",
+      "date": "September 25, 2023",
+      "time": "18:00",
+      "organizer": "Creepy Pasta"
+    },
+    {
+      "id": 233,
+      "category": "food",
+      "title": "The herring market",
+      "description": "Fishermen sell their products on the Market Square directly from fishing boats and sales huts.",
+      "location": "Market Square",
+      "date": "October 11, 2023",
+      "time": "10:00",
+      "organizer": "Fisher Man"
+    },
+    {
+      "id": 933,
+      "category": "arts",
+      "title": "Uniarts Fest",
+      "description": "Uniarts Fest presents the freshest art in the city.",
+      "location": "University of the Arts",
+      "date": "August 8, 2023",
+      "time": "14:00",
+      "organizer": "Artsy Fartsy"
+    }
+  ]
+}
